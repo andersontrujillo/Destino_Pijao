@@ -1,0 +1,114 @@
+*   {
+    font-family: 'Ubuntu', sans-serif;
+    margin: 0;
+}
+
+header  {
+    background-color: #2a2a2a ;
+
+}
+
+.navegacion     {
+    position:sticky;
+    top:0;
+}
+
+.imagen_inicio  {
+    position:relative;
+    left: 40px;
+    height: 170px;
+    width: 270px 
+}
+
+
+.imagen__inicio__navegacion         {
+    font-size:18px;
+    font-weight: bolder;
+    position: relative;
+    bottom: 70px;
+    left: 100px;
+    border: 2px #ebd789;
+    border-style:ridge;
+    border-radius: 5px;
+    display: inline;
+    color: #ebd789;
+    margin: 10px;
+    padding: 5px 15px;
+    text-decoration: none;
+}
+
+.imagen__inicio__navegacion:hover   {
+    background-color: #941926;
+}
+
+
+.seccion__principal__card__image1    {
+    left: 10px;
+    top: 20px;
+    padding: 10px;
+    float: right;
+    height: 350px;
+    width: 500px;
+    border-radius: 30px;
+}
+
+.seccion__principal__card__image2    {
+    left: 10px;
+    top: 10px;
+    padding: 10px;
+    margin: 0px 25px;
+    float: left;
+    height: 330px;
+    width: 480px;
+    border-radius: 30px;
+
+}
+
+.seccion__principal__card__text    {
+    justify-content: center;
+    text-align: center;
+    top: -25px;
+    margin: 0px 15px;
+    display: inline-block;
+    font-size: xx-large;
+    font-weight: bold;
+}
+
+#seccion__principal__card__text__2  {
+    font-size:xx-large;
+    font-weight: bold;
+    text-align: center;
+    border: 1px black
+    
+}
+
+.pie    {
+    font-size: large;
+    padding: 0px;
+    margin: 0px;
+    background-color:#2a2a2a ;
+    background-size: 100%;
+    text-align: center;
+}
+
+.imagen_footer  {
+    float: left;
+    position:relative;
+    top: 13px;
+    left: 500px;
+}
+
+.imagen__servicios {
+    height: 150px;
+    width: 150px;
+}
+
+.imagen__destinos__populares {
+    height: 350px;
+    width: 250px;
+}
+
+.imagen__recomendaciones    {
+    height: 350px;
+    width: 500px;
+}
